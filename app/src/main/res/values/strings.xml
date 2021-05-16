@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="forgot_cort">Don\'t worry, we just need your registered\nemail address and it
+        done
+    </string>
+    <string name="go_back"><![CDATA[<<Go Back]]></string>
+
+    <string name="check_email">Check your email and reset your password!</string>
+    <string name="email_not_send">Try again! Something wrong happened</string>
+
+</resources>
